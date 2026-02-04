@@ -92,6 +92,10 @@ header div {
     border-radius: 50px;
 }
 
+.w-button:hover {
+    background-color: #14120B;
+    cursor: pointer;
+}
 
 .b-button {
     background-color: white;
@@ -103,6 +107,11 @@ header div {
     font-weight: 500;
     border-radius: 50px;
     margin-right: -8px;
+}
+
+.b-button:hover {
+    background-color: white;
+    cursor: pointer;
 }
 
 .but {
