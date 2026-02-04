@@ -40,16 +40,17 @@ cursor-clone/
 
 ## 💡 Recreation
 
-✔ Top Navigation Bar with Logo, nav links, primary CTA
+✔ Top Navigation Bar with Logo, nav links, primary CTA  
 ✔ Hero section including main headline and CTA  
 ✔ Trusted companies grid  
-✔ Feature Cards Section
+✔ Feature Cards Section  
 ✔ Testimonials section  
 ✔ Changelog & highlights  
-✔ Cases ans Story Section 
-✔ Team/About Section
-✔ Final CTA
-✔ Footer Section
+✔ Case Studies & Stories Section  
+✔ Team / About Section  
+✔ Final CTA  
+✔ Footer Section  
+
 
 ## Fonts and Colors
 - Overall Body Color - used Hex color #333
