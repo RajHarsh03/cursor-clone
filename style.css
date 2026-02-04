@@ -846,6 +846,12 @@ header div {
     margin: 10px 100px 10px 100px;
 }
 
+
+.big-title button:hover {
+    background-color: #e0e0e0;
+    cursor: pointer;
+}
+
 /* ===== Footer ===== */
 .site-footer {
     background-color: #201E18;
