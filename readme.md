@@ -9,6 +9,7 @@ This project recreates the layout and visual structure of the original Cursor we
 ---
 
 ## Live Preview
+![https://harsh-raj4618.github.io/cursor-clone/]
 
 
 
