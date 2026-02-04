@@ -32,15 +32,24 @@ cursor-clone/
 
 ---
 
-## 💡 Features
+## 💡 Recreation
 
-✔ Hero section with download button  
+✔ Top Navigation Bar with Logo, nav links, primary CTA
+✔ Hero section including main headline and CTA  
 ✔ Trusted companies grid  
-✔ Feature showcase cards  
+✔ Feature Cards Section
 ✔ Testimonials section  
 ✔ Changelog & highlights  
-✔ Fully static with no JavaScript  
-✔ Styled with CSS Flexbox and Grid
+✔ Cases ans Story Section 
+✔ Team/About Section
+✔ Final CTA
+✔ Footer Section
+
+## Fonts and Colors
+- Overall Body Color - used Hex color #333
+- For Certain Section - used Hex color 201E18
+- For Font-Family - CursorGothic, "CursorGothic Fallback", system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 
 ---
 
